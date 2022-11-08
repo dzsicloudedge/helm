@@ -3,11 +3,11 @@ entries:
   ping-pong:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2022-11-08T11:15:12.422857283Z"
+    created: "2022-11-08T12:05:53.366652336Z"
     description: A Helm chart for RIFT.ware ping and pong
     digest: cec4af5e4b54a38341fd9c59a62ccaa5fb8c5c4afd1b34a5072c477e762b1083
     name: ping-pong
     urls:
-    - https://github.com/dzsicloudedge/helm.git/ping-pong-0.1.0.tgz
+    - https://dzsicloudedge.github.io/helm/ping-pong-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-08T11:15:12.422148595Z"
+generated: "2022-11-08T12:05:53.36608304Z"
